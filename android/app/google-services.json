@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42449950177",
+    "project_id": "pfa-demo-8cef1",
+    "storage_bucket": "pfa-demo-8cef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42449950177:android:a91e280b2bbc0a90cdaea0",
+        "android_client_info": {
+          "package_name": "com.pfa.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42449950177-gdcndu0ah9t44dtqdpc9pvjpt97bnio6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pfa.android",
+            "certificate_hash": "7fb50c8ad4dcf7f6155a150299ea0575a2e81308"
+          }
+        },
+        {
+          "client_id": "42449950177-3o7nb9ducn7smtk0rr2dvin3odjct8m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDuYDbNfblAjG_CxApQmadAnKPDSt828"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42449950177-3o7nb9ducn7smtk0rr2dvin3odjct8m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
